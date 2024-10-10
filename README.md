@@ -1,2 +1,2 @@
-# Python_operate
-All the work based on python
+# Virtual-Hospital
+Project for Database Management System, Spring 2022. Used : Flask, sqlite3.
